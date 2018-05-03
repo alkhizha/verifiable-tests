@@ -6,7 +6,7 @@ It is still under development, but you can already use it
 for all the task examples we have and the other ones you come up with
 (see task files in `/tasks` for example of a task structure).
 
-### Steps You Need to Get it Runnging
+### Steps You Need to Get it Running
  1. Install [Node.js](nodejs.org).
  2. Clone repository with
  
